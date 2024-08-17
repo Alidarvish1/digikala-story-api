@@ -1,5 +1,4 @@
-{
-  "story": [
+[
     {
       "id": 1,
       "image": "https://alidarvish1.github.io/digikala-story-api/story-images/1.jpg",
@@ -101,4 +100,3 @@
       "text": "قوی‌ترین نور تا ۱۰ میلیون"
     }
   ]
-}
