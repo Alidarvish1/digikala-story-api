@@ -1,0 +1,104 @@
+{
+  "story": [
+    {
+      "id": 1,
+      "image": "./public/images/story-images/1.jpg",
+      "text": "لایو شگفت انگیز اینجاست"
+    },
+    {
+      "id": 2,
+      "image": "./public/images/story-images/1.jpg",
+      "text": "رنگ موهاتو تثبیت کن، نذار زرد بشه"
+    },
+    {
+      "id": 3,
+      "image": "./story-images/3.jpg",
+      "text": "کارگران دریا کتاب آسونیه؟"
+    },
+    {
+      "id": 4,
+      "image": "./story-images/4.jpg",
+      "text": "بررسی تخته وایت برد آلفا ۶۰×۴۰ سانتی متر"
+    },
+    {
+      "id": 5,
+      "image": "./story-images/5.jpg",
+      "text": "مبدل 3.0 usb به USB-C/Micro USB هارمن"
+    },
+    {
+      "id": 6,
+      "image": "./story-images/6.jpg",
+      "text": "مبدل کرم تقویت کننده ابرو سریتا"
+    },
+    {
+      "id": 7,
+      "image": "./story-images/7.jpg",
+      "text": "آبمیوه ترش کاریز"
+    },
+    {
+      "id": 8,
+      "image": "./story-images/8.jpg",
+      "text": "فلیپ ۶ چه پیشرفت‌هایی داشته؟"
+    },
+    {
+      "id": 9,
+      "image": "./story-images/9.jpg",
+      "text": "مته رو کجا میذاری؟"
+    },
+    {
+      "id": 10,
+      "image": "./story-images/10.jpg",
+      "text": "قوی‌ترین نور تا ۱۰ میلیون"
+    },
+    {
+      "id": 11,
+      "image": "./story-images/1.jpg",
+      "text": "لایو شگفت انگیز اینجاست"
+    },
+    {
+      "id": 12,
+      "image": "./story-images/2.jpg",
+      "text": "رنگ موهاتو تثبیت کن، نذار زرد بشه"
+    },
+    {
+      "id": 13,
+      "image": "./story-images/3.jpg",
+      "text": "کارگران دریا کتاب آسونیه؟"
+    },
+    {
+      "id": 14,
+      "image": "./story-images/4.jpg",
+      "text": "بررسی تخته وایت برد آلفا ۶۰×۴۰ سانتی متر"
+    },
+    {
+      "id": 15,
+      "image": "./story-images/5.jpg",
+      "text": "مبدل 3.0 usb به USB-C/Micro USB هارمن"
+    },
+    {
+      "id": 16,
+      "image": "./story-images/6.jpg",
+      "text": "مبدل کرم تقویت کننده ابرو سریتا"
+    },
+    {
+      "id": 17,
+      "image": "./story-images/7.jpg",
+      "text": "آبمیوه ترش کاریز"
+    },
+    {
+      "id": 18,
+      "image": "./story-images/8.jpg",
+      "text": "فلیپ ۶ چه پیشرفت‌هایی داشته؟"
+    },
+    {
+      "id": 19,
+      "image": "./story-images/9.jpg",
+      "text": "مته رو کجا میذاری؟"
+    },
+    {
+      "id": 20,
+      "image": "./story-images/10.jpg",
+      "text": "قوی‌ترین نور تا ۱۰ میلیون"
+    }
+  ]
+}
